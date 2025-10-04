@@ -5,10 +5,14 @@ CineScope is a modern movie discovery app built with React, TypeScript, and Tail
 
 ## Highlights
 
-🔍 Fast movie search with real-time results
-📄 Film details powered by the TMDb API
-⭐ Personal watchlist feature
-📱 Mobile-friendly, minimal UI
+- 🔍 Fast movie search with real-time results
+
+- 📄 Film details powered by the TMDb API
+
+- ⭐ Personal watchlist feature
+
+- 📱 Mobile-friendly, minimal UI
+
 
 ## Tech Stack
 - React + TypeScript
